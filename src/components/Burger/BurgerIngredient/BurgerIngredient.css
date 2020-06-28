@@ -1,0 +1,56 @@
+.bread-bottom {
+    height: 10%;
+    width: 70%;
+    background: linear-gradient(#F08E4A, #e27b36);
+    border-radius: 0 0 30px 30px;
+    box-shadow: inset -15px 0 #c15711;
+    margin: 2% auto;
+}
+
+.bread-top {
+    height: 16%;
+    width: 70%;
+    background: linear-gradient(#bc581e, #e27b36);
+    border-radius: 50% 50% 0 0;
+    box-shadow: inset -15px 0 #c15711;
+    margin: 2% auto;
+    position: relative;
+}
+
+.seeds1 {
+    width: 10%;
+    height: 12%;
+    position: absolute;
+}
+
+.cheese {
+    width: 80%;
+    height: 3%;
+    background-color: #FFA600;
+    border-radius: 40px;
+    margin: 2% auto;
+}
+
+.meat {
+    width: 70%;
+    height: 7%;
+    background-color: #542D2D;
+    border-radius: 40px;
+    margin: 2% auto;
+}
+
+.salad {
+    width: 75%;
+    height: 5%;
+    background: linear-gradient(#55AB55, rgb(17, 163, 17));
+    border-radius: 40px;
+    margin: 2% auto;
+}
+
+.bacon {
+    width: 70%;
+    height: 3%;
+    background: brown;
+    border-radius: 10px;
+    margin: 2% auto;
+}
